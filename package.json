@@ -1,0 +1,30 @@
+{
+    "author": "paulniven@aol.com",
+    "dependencies": {},
+    "keywords": [],
+    "name": "health_test",
+    "pebble": {
+        "capabilities": [
+            "health"
+        ],
+        "displayName": "HEALTH_TEST",
+        "enableMultiJS": true,
+        "messageKeys": [],
+        "projectType": "native",
+        "resources": {
+            "media": []
+        },
+        "sdkVersion": "3",
+        "targetPlatforms": [
+            "aplite",
+            "basalt",
+            "chalk",
+            "diorite"
+        ],
+        "uuid": "1ce4b6ed-cede-425f-a704-836c79d958d7",
+        "watchapp": {
+            "watchface": false
+        }
+    },
+    "version": "1.0.0"
+}
